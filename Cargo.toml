@@ -15,7 +15,6 @@ bevy = { version = "0.13", default-features = false, features = [
     "bevy_asset",
     "bevy_text",
     "file_watcher",
-    "multi-threaded",
 ]}
 csv = "1.2.2"
 
